@@ -17,4 +17,4 @@ Anda dapat langsung menggunakan program diatas dengan cara:
 Download file program&nbsp;</blockquote>
 <blockquote class="tr_bq">
 Pindahkan folder program ke html(LAMP) atau htdocs(XAMPP)&nbsp;</blockquote>
-<img src="folder.jpg" alt="Trulli" width="500" height="333">
+<img src="folder.png" width="500" height="333">
