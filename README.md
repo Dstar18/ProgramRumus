@@ -18,3 +18,7 @@ Download file program&nbsp;</blockquote>
 <blockquote class="tr_bq">
 Pindahkan folder program ke html(LAMP) atau htdocs(XAMPP)&nbsp;</blockquote>
 <img src="docs/folder1.png" width="500" height="333">
+<blockquote class="tr_bq">
+Jalankan program di browser anda(localhost/ProgramRumus-BS4)&nbsp;</blockquote>
+<img src="docs/utama.png" width="500" height="333">
+<img src="docs/program.png" width="500" height="333">
