@@ -22,6 +22,6 @@ Pindahkan folder program ke html(LAMP) atau htdocs(XAMPP)&nbsp;</blockquote>
 Jalankan program di browser anda(localhost/ProgramRumus-BS4)&nbsp;</blockquote>
 <img src="docs/utama.png" width="500" height="333">
 <img src="docs/program.png" width="500" height="333">
-
+<br>
 Silahkan gunakan program ini sebagai pembelajaran dan untuk belajar lebih mendalam tentang Bootstrap silahkan kunjungi dokumentasi pada web resmi bootstrap<br>
 Dokumentasi Bootstrap Link : https://getbootstrap.com/docs/4.6/getting-started/introduction/
