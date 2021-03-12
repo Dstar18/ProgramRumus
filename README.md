@@ -14,4 +14,6 @@ Penerapan bootstrap dengan kasus menghitung nilai bangun datar dan bangun ruang.
 <b>Langkah Kerja</b><br>
 Anda dapat langsung menggunakan program diatas dengan cara:
 <blockquote class="tr_bq">
-sudo apt install -y aircrack-ng&nbsp;</blockquote>
+Download file program&nbsp;</blockquote>
+<blockquote class="tr_bq">
+Pindahkan folder program ke html(LAMP) atau htdocs(XAMPP)&nbsp;</blockquote>
