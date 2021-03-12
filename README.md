@@ -7,4 +7,6 @@ Bootstrap merupakan sebuah library framework CSS yang telah dibuat khusus uintuk
 Penerapan bootstrap dengan kasus menghitung nilai bangun datar dan bangun ruang.
 
 <b>Peralatan Yang Digunakan</b><br>
-jfaljksfh
+1. Web Server atau XAMPP<br>
+2. Aplikasi Text Editor(Visual Studio Code)<br>
+3. 
