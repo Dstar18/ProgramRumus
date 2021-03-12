@@ -9,4 +9,4 @@ Penerapan bootstrap dengan kasus menghitung nilai bangun datar dan bangun ruang.
 <b>Peralatan Yang Digunakan</b><br>
 1. Web Server atau XAMPP<br>
 2. Aplikasi Text Editor(Visual Studio Code)<br>
-3. 
+3. <a href="https://getbootstrap.com/">Bootstrap 4.6x </a>
